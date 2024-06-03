@@ -1,17 +1,17 @@
-# lrose-topaz
+# lrose-releases
 
 <img align="left" width="175" height="175" src="./docs/images/LROSE_logo_small.png">
 <img align="right" width="175" height="175" src="./docs/images/CYCLONE.jpeg">
 
-## **LROSE Topaz** - The Lidar Radar Open Software Environment "Cyclone" Release
+## **LROSE Colette** - The Lidar Radar Open Software Environment "Colette" Release
 
 [![DOI](https://zenodo.org/badge/339518592.svg)](https://zenodo.org/badge/latestdoi/339518592)
 
-The fourth LROSE release is called **"Topaz"** and encompasses six key toolsets that define a core lidar/radar workflow: *Convert, Display, QC, Grid, Echo, and Winds*
+The fourth LROSE release is called **"Colette"** and encompasses six key toolsets that define a core lidar/radar workflow: *Convert, Display, QC, Grid, Echo, and Winds*
 
-Topaz can be installed with pre-compiled binaries or compiled from source in C++ for native apps on Linux or Mac. Preliminary support is available for some tools on Windows.
+Colette can be installed with pre-compiled binaries or compiled from source in C++ for native apps on Linux or Mac. Preliminary support is available for some tools on Windows.
 
-Full documentation for Topaz is available on the [LROSE website](https://wiki.lrose.net)
+Full documentation for Colette is available on the [LROSE website](https://wiki.lrose.net)
 
 We encourage users to [register](https://lrose.net/software.html) in order to receive critical software updates, and sign up for the mailing list to help build the LROSE community.
 
@@ -24,7 +24,7 @@ LROSE is a co-operative project between:
 
 LROSE is funded by the [National Science Foundation](https://www.nsf.gov).
 
-**Topaz** focuses on high-quality, well-tested, well-maintained and well-documented key applications as ‘building blocks’, allowing users to assemble trusted, reproducible workflows to accomplish more complex scientific tasks.
+**Colette** focuses on high-quality, well-tested, well-maintained and well-documented key applications as ‘building blocks’, allowing users to assemble trusted, reproducible workflows to accomplish more complex scientific tasks.
 
 In the current release, the following tools are available:
 
@@ -64,4 +64,4 @@ In the current release, the following tools are available:
 
 ### Future Release Plans
 
-Topaz is considered an 'stable' release.
+Colette is considered an 'stable' release.
