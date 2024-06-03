@@ -1,7 +1,7 @@
 # lrose-releases
 
 <img align="left" width="175" height="175" src="./docs/images/LROSE_logo_small.png">
-<img align="right" width="175" height="175" src="./docs/images/CYCLONE.jpeg">
+<img align="right" width="175" height="175" src="./docs/images/Colegge_rose.jpg">
 
 ## **LROSE Colette** - The Lidar Radar Open Software Environment "Colette" Release
 
