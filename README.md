@@ -5,7 +5,7 @@
 
 ## **LROSE Colette** - The Lidar Radar Open Software Environment "Colette" Release
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11510075.svg)](https://doi.org/10.5281/zenodo.11510075)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14624762.svg)](https://doi.org/10.5281/zenodo.14624762)
 
 The fourth LROSE release is called **"Colette"** and encompasses six key toolsets that define a core lidar/radar workflow: *Convert, Display, QC, Grid, Echo, and Winds*
 
